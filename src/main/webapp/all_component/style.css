@@ -1,0 +1,17 @@
+h1{
+	color: red;
+}
+
+.flr{
+	float: right;
+}
+
+.bg-custom{
+	background-color: #303f9f !important;
+	color: white !important;
+}
+
+.btn-center{
+	display: block  !important;
+	margin: auto  !important;
+}
